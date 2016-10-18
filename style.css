@@ -1,0 +1,99 @@
+body {
+	background-color: dimgrey;
+	color: black;
+	text-align: center;
+}
+
+header {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	background-color: gainsboro;
+	margin-left:8%;
+	margin-right: 8%;
+	margin-bottom: 1%;
+}
+
+.second {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	background-color: gainsboro;
+	margin-left: 8%;
+	margin-right: 8%;
+	margin-bottom: 1%;
+}
+
+.left-section {
+	float:left;
+	position: relative;
+	padding-top: 15px;
+	height: 300px;
+	width:52%;
+	background-color: gainsboro;
+	margin-left:8%;
+	margin-right: 2%;
+	margin-bottom: 1%;
+
+}
+
+#article {
+	position: absolute;
+	padding-top: 15px;
+	width:96%;
+	height:60%;
+	background-color: dimgrey;
+	top: 20%;
+	left: 2%;
+	right: 2%;
+	margin-bottom: 2%;
+	color: gainsboro;
+}
+
+#headers {
+	height: 18%;
+	position: absolute;
+	top: 45%;
+	background-color: gainsboro;
+	width: 85%;
+	left:8%;
+	right: 8%;
+}
+
+#para {
+	height: 18%;
+	position: absolute;
+	top: 65%;
+	background-color: gainsboro;
+	left: 8%;
+	right: 8%;
+	width: 85%;
+}
+
+.right-section {
+	position: absolute;
+	width: 30.5%;
+	left: 61%;
+	height:315px;
+	background-color: gainsboro;
+	float: left;
+	clear: both;
+
+}
+
+#leftText {
+	padding-top: 150px;
+}
+
+footer {
+	position: relative;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	background-color: gainsboro;
+	top: 327.5px;
+	width: 84%;
+	margin-left:8%;
+	margin-right: 8%;
+}
+
+#footText {
+	text-align: center;
+}
