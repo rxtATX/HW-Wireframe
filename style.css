@@ -88,12 +88,10 @@ footer {
 	padding-top: 15px;
 	padding-bottom: 15px;
 	background-color: gainsboro;
-	top: 327.5px;
+	top: 80%;
+	height: 50px;
 	width: 84%;
 	margin-left:8%;
 	margin-right: 8%;
-}
-
-#footText {
-	text-align: center;
+	clear:both;
 }
